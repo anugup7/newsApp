@@ -39,7 +39,7 @@ export class News extends Component {
     this.setState({
       articles: parsedData.articles,
       totalResults: parsedData.totalResults,
-      loading: false,
+      loading: false,      
     });
     this.props.setProgress(100)
   }
