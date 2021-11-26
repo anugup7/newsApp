@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Rifat Fareed",
+      "title": "‘Skin them alive’: Kashmir BJP politician booked for hate speech",
+      "description": "In viral video, ex-BJP legislator purportedly calls for violence against Kashmiris who support Pakistani cricket team.",
+      "url": "http://www.aljazeera.com/news/2021/11/2/india-pakistan-cricket-skin-them-alive-kashmir-bjp-hate-speech",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/AP21305415292525.jpg?resize=1200%2C630",
+      "publishedAt": "2021-11-02T12:42:57Z",
+      "content": "Srinagar, Indian-administered Kashmir A politician belonging to the right-wing Bharatiya Janata Party (BJP) in Indian-administered Kashmir has been booked for hate speech after he called on his suppo… [+3695 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "T20 World Cup: South Africa v Bangladesh - clips, radio & text",
+      "description": "Follow live text, TMS commentary and in-play clips as South Africa play Bangladesh in the T20 World Cup at the Sheikh Zayed Cricket Stadium, Abu Dhabi.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/58260324",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.21.1/images/bbc-sport-logo.png",
+      "publishedAt": "2021-11-02T09:52:40.8565412Z",
+      "content": "South Africa are unchanged from their win over Sri Lanka on Saturday while Bangladesh make two changes. \r\nShakib Al Hasan is out with an injury as mentioned, while Mustafizur Rahman is rested. They a… [+431 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
